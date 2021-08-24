@@ -20,4 +20,4 @@ My interest in software goes back to middle school when I was first introduced t
 
 When I am not continuing to learn and build things, I like to teach and dicuss proggramming topics through a series of articles.
 
-In short I like working on impactful projects with smart, humble, and kind people. You can find out a little more about what I've done by checking out my linkedin.
+In short I like working on impactful projects that challenge my skills. You can find out a little more about what I've done by checking out my linkedin.
