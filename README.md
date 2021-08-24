@@ -27,6 +27,6 @@ Here are some ideas to get you started:
             When I am not continuing to learn and build things, I like to teach and dicuss proggramming topics through a series of <a href="https://theryanrana.medium.com/">articles</a>.
             </p>
             <p>In short I like working on impactful projects that challenge my skills. You can find out a little more about what I've done by checking out my 
-              <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/">linkedin</a>.</p>
+              <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/">linkedin</a>.</p>           <h1>SET UP A COURSETURTLE ACCOUNT</h1>
               
-              <h1>SET UP A COURSETURTLE ACCOUNT</h1>
+   
