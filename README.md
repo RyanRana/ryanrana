@@ -1,4 +1,3 @@
-![pic 001](https://user-images.githubusercontent.com/39924576/130969251-66fd2e33-125c-4122-baf0-e91ab36b5508.png)
 ### Hi there 👋
 
 <!--
@@ -31,4 +30,4 @@ Here are some ideas to get you started:
               <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/">linkedin</a>.</p>           
               <h1>SET UP AN ACCOUNT ON <a href="https://courseturtle.com">COURSETURTLE.COM</a></h1>
               
-   
+   ![pic 001](https://user-images.githubusercontent.com/39924576/130969251-66fd2e33-125c-4122-baf0-e91ab36b5508.png)
