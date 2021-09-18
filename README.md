@@ -31,6 +31,6 @@ Here are some ideas to get you started:
               <h1>SET UP AN ACCOUNT ON <a href="https://courseturtle.com">COURSETURTLE.COM</a></h1>
               
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](kedin.com/in/ryan-rana-544b761b3/)
-[<img align="left" alt="medium" src=" https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://theryanrana.medium.com/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://theryanrana.medium.com/)
 
 
