@@ -32,6 +32,6 @@ Here are some ideas to get you started:
               
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](kedin.com/in/ryan-rana-544b761b3/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://theryanrana.medium.com/)
-[<img align="left" alt="medium" src="https://courseturtle.com/pic.001.png&style=for-the-badge&" />](https://courseturtle.com/)
+[<img align="left" alt="courseturle" src="https://courseturtle.com/pic.001.png&style=for-the-badge&" />](https://courseturtle.com/)
 
 
