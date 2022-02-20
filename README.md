@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br><br>
 👀 I am looking to collaborate with equally passionate peaple and get involved in an internship this summer.
 <br><br>
-📫 Shoot me an email at ryanrana04@gmail.com you an also view my website to learn more.
+📫 Shoot me an email at ryanrana04@gmail.com you can also view my website to learn more.
 <br><br>            
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-rana-544b761b3/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://theryanrana.medium.com/)
