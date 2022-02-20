@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br><br>
 🗓 I started coding 4 years ago when I first saw it used in school. Soon after, I found myself learning to code in Python and creating apps and websites for fun. 
 <br><br>
-📺 When I am not continuing to learn and build things, I like to write tech articles on medium and rewatch the social network. 
+📺 When I am not continuing to learn and build things, I like to write tech articles on medium and rewatch the Social Network. 
 <br><br>
 👀 I am looking to collaborate with equally passionate peaple and get involved in an internship this summer.
 <br><br>
