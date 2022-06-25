@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <br><br>
 📫 Shoot me an email at ryanrana04@gmail.com you can also view my website to learn more.
 <br><br>            
-<object data="ryan rana resume.pd.pdf" type="application/pdf" width="100%" height="100%">
-  <p>Alternative text - include a link <a href="ryan rana resume.pd.pdf">to the PDF!</a></p>
+<object data="r.pdf" type="application/pdf" width="100%" height="100%">
+
 </object>
 <embed src= "ryan rana resume.pdf" width= "500" height= "375">
 
