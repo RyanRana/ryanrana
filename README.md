@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🦉 I am a rising junior at Watchung Hills Regional Highschool in NJ. I am a passionate programmer with vast expierence in Machine Learning and Web Design. Currently I am working on building a Haptic Device Prototype to simulate enviormental stimulus with Artificial Intelligence.
+🦉 I am a rising junior at Watchung Hills Regional Highschool in NJ. I am a passionate programmer with vast expierence in Machine Learning and Web Design. Currently I am working on building a Haptic Device Prototype to simulate enviormental stimulus with Artificial Intelligence and have an internship at Populus.
 <br><br>
 🐢 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers. I like growing my skillset and applying it to different types of projects.
 <br><br>
