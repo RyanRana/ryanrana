@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🦉 I am a rising junior at Watchung Hills Regional Highschool in NJ. I am a passionate programmer with vast expierence in Machine Learning and Web Design. Currently I am working on building a Haptic Device Prototype to simulate enviormental stimulus with Artificial Intelligence and have an internship at Populus.
+🦉 I am a Junior at Watchung Hills Regional Highschool in NJ. Enginneer at Populus. Intern at Datanexxt. President of Stem In Place. Independent Scientific Reasearcher.
 <br><br>
 🐢 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers. I like growing my skillset and applying it to different types of projects.
 <br><br>
 🗓 I started coding 4 years ago when I first saw it used in school. Soon after, I found myself learning to code in Python and creating apps and websites for fun. 
 <br><br>
-📺 When I am not continuing to learn and build things, I like to write tech articles on medium and rewatch the Social Network. 
+📺 When I am not continuing to learn and build things, I write tech articles on medium and rewatch the Social Network. 
 <br><br>
-👀 I am looking to collaborate with equally passionate peaple and get involved in an internship this summer.
+👀 I am looking to collaborate with equally passionate peaple.
 <br><br>
 📫 Shoot me an email at ryanrana04@gmail.com you can also view my website to learn more.
 <br><br>            
