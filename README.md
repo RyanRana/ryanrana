@@ -25,11 +25,7 @@ Here are some ideas to get you started:
 👀 I am looking to collaborate with equally passionate peaple.
 <br><br>
 📫 Shoot me an email at ryanrana04@gmail.com you can also view my website to learn more.
-<br><br>            
-<object data="r.pdf" type="application/pdf" width="100%" height="100%">
-
-</object>
-<embed src= "ryan rana resume.pdf" width= "500" height= "375">
+<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-rana-544b761b3/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://theryanrana.medium.com/)
 
