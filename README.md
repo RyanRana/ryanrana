@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🦉 I am a Junior at Watchung Hills Regional Highschool in NJ. Enginneer at Populus. Intern at Datanexxt. President of Stem In Place. Independent Scientific Reasearcher.
+🦉 I am a Junior at Watchung Hills Regional Highschool in NJ. Enginneer at Populus. Intern at Datanexxt. President of Stem In Place. Independent Scientific Reasearcher. Founder of CourseTurtle.
 <br><br>
 🐢 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers. I like growing my skillset and applying it to different types of projects.
 <br><br>
