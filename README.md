@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🦉 I am a Junior at Watchung Hills Regional Highschool in NJ. Enginneer at Populus. Intern at Datanexxt. President of Stem In Place. Independent Scientific Reasearcher. Founder of CourseTurtle.
 <br><br>
-🐢 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers. I like growing my skillset and applying it to different types of projects.
+🐢 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers, to fully depoloyed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
 <br><br>
 🗓 I started coding 4 years ago when I first saw it used in school. Soon after, I found myself learning to code in Python and creating apps and websites for fun. 
 <br><br>
