@@ -17,29 +17,7 @@ Here are some ideas to get you started:
 🦅  I am a Junior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ and an Enginneer at <a href="https://www.populustrading.com/">Populus</a>, Intern at <a href="https://datanexxt.com/">Datanexxt</a>, President of <a href="https://www.steminplace.com/"">Stem In Place</a>, Independent <a href="https://scholar.google.com/citations?user=oHYO5bsAAAAJ&hl=en" >Scientific Reasearcher</a>, and Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a>.
 <br><br>
 
-You can find out more by looking through at my <a href="resume.pdf">resume</a>.
-<br><br>
-<a href="https://www.linkedin.com/in/ryan-rana-544b761b3/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://theryanrana.medium.com/"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://github.com/RyanRana"><img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://twitter.com/itsryanrana"><img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-
-         
-        </div>
-          <div class="avatar">
-          <img src="icon.png"/>
-                 
-      </div>
-    </div>
-        </div>
-    <script src='https://d33wubrfki0l68.cloudfront.net/js/7f20625245043f914303fd1f5d7d400ec4aabbfe/js/katex_init.js'></script>
-    <footer class="site-footer">
-        <p class="text">&copy; 2022 Ryan Rana</p>
-        <br/>
-    </footer>
-      </body>
-    </html>
 
 <br><br>
 🦈 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers, to fully depoloyed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
