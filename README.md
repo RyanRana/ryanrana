@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 🦅  I am a Junior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ and an Enginneer at <a href="https://www.populustrading.com/">Populus</a>, Intern at <a href="https://datanexxt.com/">Datanexxt</a>, President of <a href="https://www.steminplace.com/"">Stem In Place</a>, Independent <a href="https://scholar.google.com/citations?user=oHYO5bsAAAAJ&hl=en" >Scientific Reasearcher</a>, and Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a>.
 <br><br>
-
-
-
-<br><br>
 🦈 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers, to fully depoloyed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
 <br><br>
 🐍 I started coding 4 years ago when I first saw it used in school. Soon after, I found myself learning to code in Python and creating apps and websites for fun. 
