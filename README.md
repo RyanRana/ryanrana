@@ -25,14 +25,14 @@ When I am not continuing to learn and build things, I write tech articles on med
 I am looking to collaborate with equally passionate peaple.
 <br><br>
 Shoot me an email at ryanrana04@gmail.com you can also view my website to learn more.
-<br><br>
+<br>
 <h3>Socials</h3>
 <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://theryanrana.medium.com/"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/RyanRana"><img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/itsryanrana"><img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<br><br>
-## ⚙️Techstack
+<br>
+<h3> Techstack</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
