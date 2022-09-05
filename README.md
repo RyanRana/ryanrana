@@ -32,10 +32,11 @@ Shoot me an email at ryanrana04@gmail.com you can also view my website to learn 
 <a href="https://github.com/RyanRana"><img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/itsryanrana"><img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br><br>
-<h3>Techstack</h3>
+## ⚙️Techstack
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 
