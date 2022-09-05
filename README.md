@@ -43,5 +43,5 @@ Shoot me an email at ryanrana04@gmail.com you can also view my website to learn 
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Mongo](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=#fa7343)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
