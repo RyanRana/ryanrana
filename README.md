@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🦋 President of <a href="https://www.steminplace.com/">Stem In Place</a><br><br>
 🧬 Independent <a href="https://scholar.google.com/citations?user=oHYO5bsAAAAJ&hl=en" > Published Scientific Reasearcher</a><br><br>
 🐢 Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a><br><br>
-🙊Teacher at Bricks4Kidz, StemOwl, and Code Ninjas.
+🙊 Teacher at Bricks4Kidz, StemOwl, and Code Ninjas.
 <br><br>
 I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers, to fully depoloyed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
 <br><br>
