@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=yo+it's+Ryan+Rana+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=yo+it's+ryan+rana+)](https://git.io/typing-svg)
 
 📌 Junior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
 📊 Worked as Enginneer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
