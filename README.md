@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📌 Junior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
 📊 Worked as Enginneer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
-🌲 Intern at <a href="https://datanexxt.com/">Datanexxt</a><br><br>
+🌲 Interned at <a href="https://datanexxt.com/">Datanexxt</a><br><br>
 🦋 President of <a href="https://www.steminplace.com/">Stem In Place</a><br><br>
 🧬 Independent <a href="https://scholar.google.com/citations?user=oHYO5bsAAAAJ&hl=en" > Published Scientific Reasearcher</a><br><br>
 🐢 Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a><br><br>
