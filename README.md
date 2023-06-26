@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-📌 Senior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
-📊 Worked as Enginneer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
+💆🏽 Senior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
+🫀 Worked as Engineer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
 🌲 Interned at <a href="https://datanexxt.com/">Datanexxt</a><br><br>
 🦋 President of <a href="https://www.steminplace.com/">Stem In Place</a><br><br>
 🧬 Independent <a href="https://scholar.google.com/citations?user=oHYO5bsAAAAJ&hl=en" > Published Scientific Reasearcher</a><br><br>
 🐢 Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a><br><br>
-🙊 Teacher at Bricks4Kidz, StemOwl, and Code Ninjas.
+🙈 Teacher at Bricks4Kidz, StemOwl, and Code Ninjas.
 <br><br>
-I have made many things from Chrome extensions to websites, to mobile apps, to AI algorithms, to research papers, to fully deployed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
+I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIS, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects.
 <br><br>
- I started coding 4 years ago when I first saw it used in school. Soon after, I found myself learning to code in Python and creating apps and websites for fun. 
+ I started coding 4 years ago when I first saw it used in school. Soon after, I learned to code in Python and create apps and websites for fun. 
 <br><br>
-When I am not continuing to learn and build things, I write tech articles on medium and rewatch the Social Network. 
+When I am not continuing to learn and build things, I write tech articles on Medium and rewatch the Social Network. 
 <br><br>
-I am looking to collaborate with equally passionate peaple.
+I am looking to collaborate with equally passionate people.
 <br><br>
 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 <br>
