@@ -47,7 +47,7 @@ Shoot me an email at ryanrana04@gmail.com you can also view my website to learn 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor61DAFB)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=61DAFB)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=yellow)&nbsp;
 ![Mongo](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=#fa7343)&nbsp;
