@@ -31,7 +31,7 @@ When I am not continuing to learn and build things, I write tech articles on med
 <br><br>
 I am looking to collaborate with equally passionate peaple.
 <br><br>
-Shoot me an email at ryanrana04@gmail.com you can also view my website to learn more.
+Shoot me an email at ryanrana04@gmail.com or call 908-873-4657.
 <br>
 <h3>Socials</h3>
 <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
