@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ryan+rana)](https://git.io/typing-svg)/h1>
-📌 Junior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
+<h1>Ryan Rana</h1>
+📌 Senior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
 📊 Worked as Enginneer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
 🌲 Interned at <a href="https://datanexxt.com/">Datanexxt</a><br><br>
 🦋 President of <a href="https://www.steminplace.com/">Stem In Place</a><br><br>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🐢 Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a><br><br>
 🙊 Teacher at Bricks4Kidz, StemOwl, and Code Ninjas.
 <br><br>
-I have made many things from chrome extensions, to websites, to mobile apps, to AI algorithams, to reasearch papers, to fully depoloyed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
+I have made many things from Chrome extensions to websites, to mobile apps, to AI algorithms, to research papers, to fully deployed Full Stack Applications. I like growing my skillset and applying it to different types of projects.
 <br><br>
  I started coding 4 years ago when I first saw it used in school. Soon after, I found myself learning to code in Python and creating apps and websites for fun. 
 <br><br>
