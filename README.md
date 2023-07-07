@@ -34,6 +34,7 @@ I am looking to collaborate with equally passionate people.
 <br><br>
 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 <br>
+[embed]https://ryanrana.github.io/resume.pdf[/embed]
 <h3>Socials</h3>
 <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://theryanrana.medium.com/"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
