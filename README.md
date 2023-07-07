@@ -39,7 +39,7 @@ Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 <a href="https://www.linkedin.com/in/ryan-rana-544b761b3/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://theryanrana.medium.com/"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/RyanRana"><img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+<iframe width="100%" height="800" src="https://ryanrana.github.io/resume.pdf">
 <br>
 <h3> Techstack</h3>
 
