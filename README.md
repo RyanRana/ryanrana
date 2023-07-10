@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-💕 Maker/Hobbyist at heart<br><br>
 💆🏽 Senior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
 🫀 Worked as Engineer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
 🌲 Interned at <a href="https://datanexxt.com/">Datanexxt</a><br><br>
