@@ -21,8 +21,6 @@ I enjoy unraveling concepts in computer science and learning by building, I have
 <br><br>
 I first discovered CS 4 years ago when I first saw a youtube video at school. I fell in love starting off with middle school EV3 programming, then Python, and building projects that I was interested in.
 <br><br>
-When I am not continuing to learn and build things, I write tech articles on Medium, hang out with my little sister, play basketball, and rewatch the Social Networks. 
-<br><br>
 I am looking to collaborate with equally passionate people.
 <br><br>
 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
