@@ -31,7 +31,6 @@ Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=61DAFB)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=yellow)&nbsp;
 ![Mongo](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
