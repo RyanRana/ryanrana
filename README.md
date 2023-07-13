@@ -15,14 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-💆🏽 Senior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ <br><br>
-🫀 Worked as Engineer at <a href="https://www.populustrading.com/">Populus</a> <br><br>
-🌲 Interned at <a href="https://datanexxt.com/">Datanexxt</a><br><br>
-🦋 President of <a href="https://www.steminplace.com/">Stem In Place</a><br><br>
-🧬 Independent <a href="https://scholar.google.com/citations?user=oHYO5bsAAAAJ&hl=en" > Published Scientific Reasearcher</a><br><br>
-🐢 Founder of <a href="https://www.courseturtle.com/">CourseTurtle</a><br><br>
-🙈 Teacher at Bricks4Kidz, StemOwl, and Code Ninjas.
-<br><br>
+Currently a senior at <a href="https://www.whrhs.org/">Watchung Hills Regional Highschool</a> in NJ and working to publish independent scientific reasearch<br><br>
+
 I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIs, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects.
 <br><br>
 I first discovered CS 4 years ago when I first saw a youtube video at school. I fell in love starting off with middle school EV3 programming, then Python, and building projects that I was interested in.
