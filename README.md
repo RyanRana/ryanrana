@@ -38,7 +38,3 @@ Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=#fa7343)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=darkbrown)&nbsp;
 
-
-
-<br><br>
-
