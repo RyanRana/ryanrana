@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h1>Ryan Rana</h1>
 Currently a senior at <a href="https://www.whrhs.org/">WHRHS</a>, doing full-stack freelance work and working to publish independent scientific research in haptic technology and computational linguistics.
 <br><br>
-I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIs, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects. I first discovered CS 4 years ago when I first saw a youtube video at school. I fell in love starting off with middle school EV3 programming, then Python, and building projects that I was interested in.
+I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIs, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects. 
+<br><br>
+I first discovered development 4 years ago and was immediately intrigued. I started off in middle school with EV3 programming and then Python. Now I spend time developing projects I think can impact others and further my knowledge and learning different technologies.
 <br><br>
 I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
