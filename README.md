@@ -25,6 +25,7 @@ I am looking to collaborate with equally passionate people.
 <br><br>
 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 <br><br>
+<h2>Technologies</h2>
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
