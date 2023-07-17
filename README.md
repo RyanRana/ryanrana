@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br><br>
 <h2>Reach Me</h2>
 
-![image](https://img.shields.io/badge/ryanrana04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/ryanrana04-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://www.linkedin.com/in/ryanrana/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@theryanrana">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
