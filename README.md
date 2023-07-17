@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 <br><br>
 🧫 I first discovered development 4 years ago and was immediately intrigued. I started off in middle school with EV3 programming and then Python. Now I spend time developing projects I think can impact others while furthering my knowledge and learning different technologies.
 <br><br>
+🙌🏽 I am looking to make new projects and collaborate with equally passionate people.
+<br><br>
 <h2>Reach Me</h2>
 
 ![image](https://img.shields.io/badge/ryanrana04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://www.linkedin.com/in/ryanrana/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-🙌🏽 I am looking to make new projects and collaborate with equally passionate people.
-<br><br>
-🙈 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
-<br><br>
+<a href="https://medium.com/@theryanrana">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+
 <h2>My Technologies</h2>
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
