@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 <br><br>
 🧫 I first discovered development 4 years ago and was immediately intrigued. I started off in middle school with EV3 programming and then Python. Now I spend time developing projects I think can impact others while furthering my knowledge and learning different technologies.
 <br><br>
+<h2>Reach Me</h2>
+
+![image](https://img.shields.io/badge/ryanrana04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/ryanrana/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 🙌🏽 I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
 🙈 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 <br><br>
 <h2>My Technologies</h2>
 
-![image](https://img.shields.io/badge/CSSjj3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
