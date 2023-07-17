@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/ryanrana04-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://www.linkedin.com/in/ryanrana/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@theryanrana">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="discordapp.com/users/[748135094333603851]">![image](https://img.shields.io/badge/ryanrana-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+![image](https://img.shields.io/badge/908-873-4657-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 <h2>My Technologies</h2>
 
