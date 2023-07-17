@@ -36,4 +36,5 @@ Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 ![Mongo](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=#fa7343)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=darkbrown)&nbsp;
+<img src="{https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}" />
 
