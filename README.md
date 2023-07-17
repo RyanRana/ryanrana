@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 <h1>Ryan Rana</h1>
 Currently a senior at <a href="https://www.whrhs.org/">WHRHS</a>, doing full-stack freelance work and working to publish independent scientific research in haptic technology and computational linguistics.
 <br><br>
-I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIs, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects.
+I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIs, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects. I first discovered CS 4 years ago when I first saw a youtube video at school. I fell in love starting off with middle school EV3 programming, then Python, and building projects that I was interested in.
 <br><br>
-I first discovered CS 4 years ago when I first saw a youtube video at school. I fell in love starting off with middle school EV3 programming, then Python, and building projects that I was interested in.
-<br><br>
-I am looking to collaborate with equally passionate people.
+I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
 Shoot me an email at <b>ryanrana04@gmail.com</b> or call <b>908-873-4657</b>.
 <br><br>
-<h2>Technologies</h2>
+<h2>My Technologies</h2>
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
