@@ -22,7 +22,7 @@ I first discovered development 4 years ago and was immediately intrigued. I star
 I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
 <h2>Reach Me</h2>
-ryanrana04@gmail.com
+ryanrana04@gmail.com //
 908-873-4657
 
 <h2>My Technologies</h2>
