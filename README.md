@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-🪐 Currently, I am a senior at WHRHS in NJ, doing full-stack freelance work, writing on medium, and working to publish independent scientific research in haptic technology and computational linguistics.
+Senior at WHRHS in NJ doing full-stack at startups.
 <br><br>
-🌲 I enjoy unraveling concepts in computer science and learning by building, I have made many things from Chrome extensions to websites, mobile apps, AI algorithms, APIs, research papers, and fully deployed full-stack applications. I like growing my skillset and applying it to different types of projects. 
+I first discovered development 4 years ago and was immediately intrigued. I started off in middle school with EV3 programming and then Python. Now I spend time developing projects I think can impact others while furthering my knowledge and learning different technologies.
 <br><br>
-🧫 I first discovered development 4 years ago and was immediately intrigued. I started off in middle school with EV3 programming and then Python. Now I spend time developing projects I think can impact others while furthering my knowledge and learning different technologies.
-<br><br>
-🙌🏽 I am looking to make new projects and collaborate with equally passionate people.
+I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
 <h2>Reach Me</h2>
 
