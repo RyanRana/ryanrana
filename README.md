@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-Senior in NJ doing full-stack at startups.
-<br><br>
-I first discovered development 4 years ago and was immediately intrigued. I started off in middle school with EV3 programming and then Python. Now I spend time developing projects I think can impact others while furthering my knowledge and learning different technologies.
+HS senior in NJ doing full-stack at startups.
 <br><br>
 I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
