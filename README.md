@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-HS senior in NJ doing full-stack at startups.
+Highschool senior doing full-stack at startups.
+<br><br>
+NJ
 <br><br>
 I am looking to make new projects and collaborate with equally passionate people.
 <br><br>
