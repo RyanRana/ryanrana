@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-Highschool senior doing full-stack for hire.
+Highschool senior doing full-stack devlopment, Computinal Linguistics. Artificial Intelligence, and UI/UX design .
 <br><br>
-NJ
-<br><br>
-I am looking to make new projects and collaborate with equally passionate people.
+I am looking to make new projects and collaborate with equally passionate people. I am intrested in freelance work and startups.
 <br><br>
 <h2>Reach Me</h2>
 ryanrana04@gmail.com //
