@@ -20,7 +20,7 @@ Highschool senior doing full-stack devlopment, Computinal Linguistics, Artificia
 I am looking to make new projects and collaborate with equally passionate people. I am intrested in freelance work and startups.
 <br><br>
 <h2>Reach Me</h2>
-ryanrana04@gmail.com //
+ryanrana04@gmail.com or
 908-873-4657
 
 <h2>My Technologies</h2>
