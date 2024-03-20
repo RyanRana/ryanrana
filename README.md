@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-Highschool senior doing full-stack devlopment, Computational Linguistics, Artificial Intelligence, and UI/UX design .
+Highschool senior doing full-stack development, Applied Artificial Intelligence, and UI/UX design. Starting at Penn State Engineering in June.
 <br><br>
 I am looking to make new projects and collaborate with equally passionate people. I am intrested in freelance work and startups.
 <br><br>
