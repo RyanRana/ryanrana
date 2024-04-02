@@ -19,7 +19,7 @@ Highschool senior doing full-stack development, Applied Artificial Intelligence,
 <br><br>
 Penn State 2028.
 <br><br>
-I am looking to make new projects and collaborate with equally passionate people. I am intrested in freelance work and startups.
+I am looking to work on new side projects and collaborate with equally passionate people. I am intrested in startups.
 <br><br>
 <h2>Reach Me</h2>
 ryanrana04@gmail.com or
