@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana 😸</h1>
-Highschool senior doing full-stack development, Applied Artificial Intelligence, and UI/UX design.
+Highschool senior working on full-stack development, Applied Artificial Intelligence, Genrative AI, and UI/UX design.
 <br><br>
 Penn State 2028.
 <br><br>
