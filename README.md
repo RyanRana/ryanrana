@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana 😸</h1>
-Highschool senior working on full-stack development, Applied Artificial Intelligence, Generative AI, and UI/UX design.
+Working on full-stack development, Applied Artificial Intelligence, Generative AI, and UI/UX design.
 <br><br>
-Penn State 2028.
+CS and Buisness @ Penn State 2028.
 <br><br>
 I am looking to work on new side projects and collaborate with equally passionate people. I am intrested in startups.
 <br><br>
