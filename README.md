@@ -19,7 +19,7 @@ Working on full-stack development, Applied Artificial Intelligence, Generative A
 <br><br>
 CS and Buisness @ Penn State 2028.
 <br><br>
-I am looking to work on new side projects and collaborate with equally passionate people. I am intrested in startups.
+I am looking to work on new side projects, startups, and collaborate with equally passionate people. 
 <br><br>
 <h2>Reach Me</h2>
 ryanrana04@gmail.com or
