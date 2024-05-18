@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana 😸</h1>
-Working on full-stack development, Applied Artificial Intelligence, Generative AI, and UI/UX design.
+Working on Full-Stack Development, Applied Artificial Intelligence, and UI/UX design.
 <br><br>
 CS and Buisness @ Penn State 2028.
 <br><br>
