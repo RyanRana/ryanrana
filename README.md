@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1>Ryan Rana</h1>
 Working on Full-Stack Development, Applied Artificial Intelligence, and UI/UX design.
 <br><br>
-CS and Buisness @ Penn State 2028.
-<br><br>
 I am looking to work on new side projects, startups, and collaborate with equally passionate people. 
 <br><br>
 <h2>Reach Me</h2>
