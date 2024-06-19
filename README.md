@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1>Ryan Rana</h1>
 CS @ Rutgers 2028
 <br><br>
-Working on Full-Stack Development, Applied Artificial Intelligence, and UI/UX design.
+Focused on Full-Stack Development, Applied Artificial Intelligence, and UI/UX Design.
 <br><br>
-I am looking to work on new side projects, startups, and collaborate with equally passionate people. 
+Eager to engage in new side projects, startups, and collaborative ventures with equally passionate peaple.
 <br><br>
 <h2>Reach Me</h2>
 ryanrana04@gmail.com or
