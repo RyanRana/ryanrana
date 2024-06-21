@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Ryan Rana</h1>
 CS @ Rutgers 2028
 <br><br>
-Focused on Applied Ai and Software Articheture.
+Focused on Applied AI and Software Architecture.
 <br><br>
 Eager to engage in new side projects, startups, and collaborative ventures with equally passionate peaple.
 <br><br>
