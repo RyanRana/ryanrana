@@ -22,7 +22,8 @@ Focused on Applied AI and Software Architecture.
 Eager to engage in new side projects, startups, and collaborative ventures with equally passionate peaple.
 <br><br>
 <h2>Reach Me</h2>
-ryanrana04@gmail.com or
+ryanrana04@gmail.com
+rr1435@scarletmail.rutgers.edu
 908-873-4657
 
 <h2>Skill Wall</h2>
