@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-CS @ Rutgers 2028
+CS @ Rutgers NB
 <br><br>
 Focused on Applied AI and Software Architecture.
 <br><br>
