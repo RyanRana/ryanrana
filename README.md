@@ -23,7 +23,7 @@ Eager to engage in new side projects, startups, and collaborative ventures with 
 <br><br>
 <h2>Reach Me</h2>
 
-ryanrana04@gmail.com
+ryanrana04@gmail.com or
 908-873-4657
 
 <h2>Skill Wall</h2>
