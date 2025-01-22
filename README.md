@@ -19,7 +19,7 @@ CS @ Rutgers NB
 <br><br>
 Focused on Applied AI and Software Architecture.
 <br><br>
-Eager to engage in new side projects, startups, and collaborative ventures with equally passionate peaple.
+Eager to engage in new side projects, startups, and collaborative ventures with equally passionate people.
 <br><br>
 <h2>Reach Me</h2>
 
