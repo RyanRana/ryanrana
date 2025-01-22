@@ -24,9 +24,6 @@ Eager to engage in new side projects, startups, and collaborative ventures with 
 <h2>Reach Me</h2>
 
 ryanrana04@gmail.com
-
-rr1435@scarletmail.rutgers.edu
-
 908-873-4657
 
 <h2>Skill Wall</h2>
