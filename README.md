@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1>Ryan Rana</h1>
 CS @ Rutgers NB
 <br><br>
-Focused on Applied AI and Software Architecture.
+Focused on Applied AI, Software Architecture, and Startups.
 <br><br>
-Eager to engage in new side projects, startups, and collaborative ventures with equally passionate people.
+Eager to engage in new side projects, products, and collaborative ventures with equally passionate people.
 <br><br>
 <h2>Reach Me</h2>
 
