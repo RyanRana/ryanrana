@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-CS @ Rutgers NB
+CS @ Rutgers NB & Developer @ Centren
 <br><br>
-Focused on Applied AI, Software Architecture, and Startups.
-<br><br>
-Eager to engage in new side projects, products, and collaborative ventures with equally passionate people.
-<br><br>
-<h2>Reach Me</h2>
-
-ryanrana04@gmail.com or
-908-873-4657
+Interested in building agentic AI & scalable systems at promising startups as early as possible.
 
 <h2>Skill Wall</h2>
 
