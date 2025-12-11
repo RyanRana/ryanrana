@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-CS @ Rutgers NB & Developer @ Centren
+cs @ Rutgers & dev @ Centren
 <br><br>
-Interested in building agentic AI & scalable systems at promising startups as early as possible.
+
 <br><br>
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
