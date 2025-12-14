@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Ryan Rana</h1>
-cs @ Rutgers & dev @ Centren
-<br><br>
-finding edges in agentic llms, vlms, scalable systems & investing in tech. Constanly building and learning.
+
+finding edges in agentic llms, vlms, scalable systems & investing in tech. I love building and learning.
 <br><br>
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
