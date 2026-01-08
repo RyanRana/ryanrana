@@ -1,5 +1,5 @@
 <h1>Ryan Rana</h1>
-finding edges in agentic llms, vlms, scalable systems & investing in tech. I love building and learning.
+trying to solve meaningful problems with agentic llms, vlms, robots & scalable systems. i love building & learning.
 <br><br>
 
 <details>
