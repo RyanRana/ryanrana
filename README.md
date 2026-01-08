@@ -1,7 +1,8 @@
 <h1>Ryan Rana</h1>
 trying to solve meaningful problems with agentic llms, vlms, robots & scalable systems. i love building & learning.
 <br><br>
-<a href="ryanrana.com">https://www.ryanrana.com/</a>
+<a href="https://www.ryanrana.com/">ryanrana.com</a>
+
 <details>
   <summary>tools used</summary>
   <br>
