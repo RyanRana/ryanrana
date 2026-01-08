@@ -3,7 +3,7 @@ finding edges in agentic llms, vlms, scalable systems & investing in tech. I lov
 <br><br>
 
 <details>
-  <summary><strong>Click to view my skills & tools (70+ badges)</strong></summary>
+  <summary>what i know</summary>
   <br>
 
   ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
