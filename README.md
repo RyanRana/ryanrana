@@ -3,7 +3,7 @@ trying to solve meaningful problems with agentic llms, vlms, robots & scalable s
 <br><br>
 
 <details>
-  <summary>tools used/summary>
+  <summary>tools used</summary>
   <br>
 
   ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
