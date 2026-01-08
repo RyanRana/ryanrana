@@ -4,7 +4,7 @@ trying to solve meaningful problems with agentic llms, vlms, robots & scalable s
 <a href="https://www.ryanrana.com/">ryanrana.com</a>
 <br><br>
 <details>
-  <summary>tools used</summary>
+  <summary>tools i use</summary>
   <br>
 
   ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
