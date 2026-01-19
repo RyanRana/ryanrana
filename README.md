@@ -4,7 +4,7 @@ trying to solve meaningful problems with agentic llms, vlms, robots & scalable s
 all my personal projects are here but see more work stuff on <a href="https://www.ryanrana.com/">ryanrana.com</a>, i also write tech stuff on <a href="https://ryanranas.medium.com/">medium</a> for those interested. i am extremely open to collaboration and conversation. text 9088734657. email ryanran04@gmail.com
 <br><br>
 <details>
-  <summary>tools i use</summary>
+  <summary>tools i use(d)</summary>
   <br>
   
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
