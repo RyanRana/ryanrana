@@ -1,5 +1,5 @@
 <h1>Ryan Rana</h1>
-trying to solve meaningful problems with agents, vlms, robots & systems i love building & learning.
+trying to solve meaningful problems with agents, vlms, robots & systems. i love building & learning.
 <br><br>
 all my personal projects are here but see more work stuff on <a href="https://www.ryanrana.com/">ryanrana.com</a>, i also write tech stuff on <a href="https://ryanranas.medium.com/">medium</a> for those interested. i am extremely open to collaboration and conversation. text 9088734657. email ryanran04@gmail.com
 <br><br>
