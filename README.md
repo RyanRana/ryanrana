@@ -1,8 +1,13 @@
 <h1>Ryan Rana</h1>
-trying to solve meaningful problems with agents, vlms, robots & systems. i love building & learning.
+trying to solve meaningful problems with agents, vlms, robots & systems. i love building & learning. i am also extremely open to collaboration and conversation.
 <br><br>
-see <a href="https://www.ryanrana.com/">ryanrana.com</a>, i also write tech stuff on <a href="https://ryanranas.medium.com/">medium</a> for those interested. i am extremely open to collaboration and conversation. text 9088734657. email ryanran04@gmail.com
-<br><br>
+see stuff on <a href="https://www.ryanrana.com/">ryanrana.com</a>.
+<br>
+i write tech <a href="https://ryanranas.medium.com/">articles</a>.
+<br>text 9088734657. 
+<br>
+email ryanran04@gmail.com
+<br>
 <details>
   <summary>tools i use(d)</summary>
   <br>
