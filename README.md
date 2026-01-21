@@ -1,6 +1,8 @@
 <h1>Ryan Rana</h1>
-trying to solve meaningful problems with agents, vlms, robots & systems. i love building & learning. i am also extremely open to collaboration and conversation.
-<br><br>
+trying to solve meaningful problems with agents, vlms, robots & systems. 
+<br>i love building & learning. 
+<br>i am also extremely open to collaboration and conversation.
+<br>
 see stuff on <a href="https://www.ryanrana.com/">ryanrana.com</a>.
 <br>
 i write tech <a href="https://ryanranas.medium.com/">articles</a>.
