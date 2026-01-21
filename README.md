@@ -82,4 +82,5 @@ email ryanran04@gmail.com
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 </details>
-sending pfp laptop stickers to emails w shipping address.
+sending pfp laptop stickers to emails 
+<br> w shipping addresses included.
