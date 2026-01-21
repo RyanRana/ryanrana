@@ -11,7 +11,7 @@ i also write tech <a href="https://ryanranas.medium.com/">articles</a>.
 <br>
 email ryanran04@gmail.com
 <br> 
-include adress for pfp stickers
+include ur address for pfp stickers
 <br>
 <details>
   <summary>tools i use(d)</summary>
