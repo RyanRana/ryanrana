@@ -86,4 +86,4 @@ include ur address for pfp stickers.
 </details>
 
 ![thing](https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg)
-
+![thing](https://raw.githubusercontent.com/RyanRana/ryanrana.github.io/refs/heads/main/Screen%20Shot%202024-07-31%20at%201.44.03%20PM%20copy.png)
