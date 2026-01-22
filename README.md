@@ -85,3 +85,5 @@ include ur address for pfp stickers.
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 </details>
 
+![thing](https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg)
+
