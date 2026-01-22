@@ -1,4 +1,4 @@
-<h1>Ryan Rana</h1>
+<h1>ryanrana._</h1>
 trying to solve meaningful problems with:
 <br>agents, vlms, robots & systems. 
 <br>i love building & learning. 
