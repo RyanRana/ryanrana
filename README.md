@@ -2,10 +2,8 @@
 trying to solve meaningful problems with agents, vlms, robots & systems. 
 <br>i love building & learning. intrested in interesting conversations. 
 <br>
-see more on <a href="https://www.ryanrana.com/">ryanrana.com</a>.i also write tech <a href="https://ryanranas.medium.com/">articles</a>.
-<br>text 9088734657 or email ryanran04@gmail.com
-<br> 
-include ur address for pfp stickers.
+see more on <a href="https://www.ryanrana.com/">ryanrana.com</a>. i also write tech <a href="https://ryanranas.medium.com/">articles</a>.
+<br>text 9088734657 or email ryanran04@gmail.com. include ur address for pfp stickers.
 <br>
 <details>
   <summary>tools i use(d)</summary>
