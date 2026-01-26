@@ -2,7 +2,7 @@
 trying to solve meaningful problems with agents, vlms, robots & systems. i love building & learning.
 <br>
 see more on <a href="https://www.ryanrana.com/">ryanrana.com</a>. i work @ <a href="https://centrenhealth.com/">Centren Health</a> rn, i cofounded <a href="https://joinmesh.today/">Mesh</a> in the summer. i also write tech <a href="https://ryanranas.medium.com/">articles</a>.
-<br>intrested in interesting conversations. text 9088734657 or email ryanran04@gmail.com. include ur address for pfp stickers.
+<br>im intrested in interesting conversations. text 9088734657 or email ryanran04@gmail.com. include ur address for pfp stickers.
 <br>
 <details>
   <summary>tools i use(d)</summary>
