@@ -1,23 +1,18 @@
-
+                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                    
 ``` diff
 @@ -0,0 +1,19 @@
-
 $ pwd /Users/ryan/information
 $ npm run dev
 > server running on http://localhost:0067
 $ curl http://localhost:0067/info.json | jq
-``` 
+```
 ``` json
 {
   "name": "Ryan Rana",
   "bio": "I love building & learning.",
-
-  "links": {
-    "website": "https://ryanrana.com",
-    "email": "ryanran04@gmail.com",
-    "text": "908-873-4657",
-    "writing": "https://ryanranas.medium.com"
-  },
 
   "interests": [
     "agents",
@@ -27,6 +22,12 @@ $ curl http://localhost:0067/info.json | jq
     "interesting conversations"
   ],
 
+  "links": {
+    "website": "https://ryanrana.com",
+    "email": "ryanran04@gmail.com",
+    "text": "908-873-4657",
+    "writing": "https://ryanranas.medium.com"
+  },
   "notes": "Include your address if you want PFP stickers."
 }
 
