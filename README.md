@@ -1,8 +1,4 @@
-                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                    
-``` diff
+ ``` diff
 @@ -0,0 +1,19 @@
 $ pwd /Users/ryan/information
 $ npm run dev
