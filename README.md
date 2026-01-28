@@ -15,7 +15,6 @@ $ curl http://localhost:0067/info.json | jq
     "vlms",
     "robotics",
     "systems",
-    "interesting conversations"
   ],
 
   "links": {
@@ -24,7 +23,8 @@ $ curl http://localhost:0067/info.json | jq
     "text": "908-873-4657",
     "writing": "https://ryanranas.medium.com"
   },
-  "notes": "Include your address if you want PFP stickers."
+
+  "notes": "reach out anywhere, always looking to sidequest"
 }
 
 ```
