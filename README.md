@@ -1,20 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ryanrana._&fontSize=80&animation=fadeIn" />
-</p>
 
+``` diff
+$ cat /ryan.json
+>
+>
+>
+diff --git a/ryan.json b/profile.json
+new file mode 106767
+index 0000000..c0ffee0
+--- /dev/null
++++ b/profile.json
+@@ -0,0 +1,19 @@
 
-
-```md
-``` yaml
 {
   name: "Ryan Rana",
   bio: "I love building & learning.",
-  links: [
+
+  links: {
     website: "https://ryanrana.com",
     email: "ryanran04@gmail.com",
-    text: 908-873-4657
-    writing: https://ryanranas.medium.com/
-  ],
+    text: "908-873-4657",
+    writing: "https://ryanranas.medium.com"
+  },
+
   interests: [
     "agents",
     "vlms",
@@ -22,9 +29,14 @@
     "systems",
     "interesting conversations"
   ],
+
   notes: "Include your address if you want PFP stickers."
 }
+
 ```
+
+
+
 <details>
   <summary>tools i use(d)</summary>
   <br>
