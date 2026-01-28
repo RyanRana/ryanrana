@@ -1,4 +1,8 @@
-<h1>ryanrana._</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ryanrana._&fontSize=80&animation=fadeIn" />
+</p>
+
+
 
 ```md
 ``` yaml
