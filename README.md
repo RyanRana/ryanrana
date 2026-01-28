@@ -1,14 +1,20 @@
  ``` diff
 @@ -0,0 +1,19 @@
-$ pwd /Users/3pac/Desktop
+$ pwd /Users/rr/Desktop
 $ npm run dev
 > server running on http://localhost:0067
 $ curl http://localhost:0067/ipom.json | jq
+```
+``` http
+GET /ipom.json HTTP/1.1
+Host: localhost:0067
+Accept: application/json
 ```
 ``` json
 {
   "name": "Ryan Rana",
   "bio": "I love building & learning.",
+  "status": "swe @ centren health.",
 
   "interests": [
     "agents",
