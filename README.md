@@ -16,12 +16,7 @@ Accept: application/json
   "bio": "I love building & learning.",
   "status": "swe @ centren health.",
 
-  "interests": [
-    "agents",
-    "vlms",
-    "robotics",
-    "systems",
-  ],
+  "interests": ["agents", "vlms", "robotics", "systems"],
 
   "links": {
     "website": "https://ryanrana.com",
@@ -30,12 +25,12 @@ Accept: application/json
     "writing": "https://ryanranas.medium.com"
   },
 
-  "notes": "reach out anywhere, always looking to sidequest"
+  "notes": "reach out anywhere, always looking to sidequest."
 }
 
 ```
 <details>
-  <summary>tools i use(d)</summary>
+  <summary>my tools</summary>
   <br>
   
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
