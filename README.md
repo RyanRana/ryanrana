@@ -1,9 +1,26 @@
 <h1>ryanrana._</h1>
-trying to solve meaningful problems with agents, vlms, robots & systems. i love building & learning.
-<br>
-see more on <a href="https://www.ryanrana.com/">ryanrana.com</a>. i work @ <a href="https://centrenhealth.com/">Centren Health</a> rn, i cofounded <a href="https://joinmesh.today/">Mesh</a> in the summer. i also write tech <a href="https://ryanranas.medium.com/">articles</a>.
-<br>im intrested in interesting conversations. text 9088734657 or email ryanran04@gmail.com. include ur address for pfp stickers.
-<br>
+
+```md
+``` yaml
+{
+  name: "Ryan Rana",
+  bio: "I love building & learning.",
+  links: [
+    website: "https://ryanrana.com",
+    email: "ryanran04@gmail.com",
+    text: 908-873-4657
+    writing: https://ryanranas.medium.com/
+  ],
+  interests: [
+    "agents",
+    "vlms",
+    "robotics",
+    "systems",
+    "interesting conversations"
+  ],
+  notes: "Include your address if you want PFP stickers."
+}
+```
 <details>
   <summary>tools i use(d)</summary>
   <br>
@@ -75,6 +92,9 @@ see more on <a href="https://www.ryanrana.com/">ryanrana.com</a>. i work @ <a hr
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 </details>
-
+<details>
+  <summary>calvin & hobbes</summary>
+  
 ![thing](https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg)
-
+  
+</details>
