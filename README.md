@@ -1,9 +1,9 @@
  ``` diff
 @@ -0,0 +1,19 @@
-$ pwd /Users/ryan/information
+$ pwd /Users/3pac/Desktop
 $ npm run dev
 > server running on http://localhost:0067
-$ curl http://localhost:0067/info.json | jq
+$ curl http://localhost:0067/ipom.json | jq
 ```
 ``` json
 {
