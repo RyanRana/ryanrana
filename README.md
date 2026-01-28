@@ -1,28 +1,25 @@
 
 ``` diff
-$ cat /ryan.json
->
->
->
-diff --git a/ryan.json b/profile.json
-new file mode 106767
-index 0000000..c0ffee0
---- /dev/null
-+++ b/profile.json
 @@ -0,0 +1,19 @@
 
+$ pwd /Users/ryan/information
+$ npm run dev
+> server running on http://localhost:0067
+$ curl http://localhost:0067/info.json | jq
+``` 
+``` json
 {
-  name: "Ryan Rana",
-  bio: "I love building & learning.",
+  "name": "Ryan Rana",
+  "bio": "I love building & learning.",
 
-  links: {
-    website: "https://ryanrana.com",
-    email: "ryanran04@gmail.com",
-    text: "908-873-4657",
-    writing: "https://ryanranas.medium.com"
+  "links": {
+    "website": "https://ryanrana.com",
+    "email": "ryanran04@gmail.com",
+    "text": "908-873-4657",
+    "writing": "https://ryanranas.medium.com"
   },
 
-  interests: [
+  "interests": [
     "agents",
     "vlms",
     "robotics",
@@ -30,13 +27,10 @@ index 0000000..c0ffee0
     "interesting conversations"
   ],
 
-  notes: "Include your address if you want PFP stickers."
+  "notes": "Include your address if you want PFP stickers."
 }
 
 ```
-
-
-
 <details>
   <summary>tools i use(d)</summary>
   <br>
