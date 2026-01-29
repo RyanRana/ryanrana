@@ -101,7 +101,7 @@ $ curl http://localhost:0067/ipom.json | jq
 </details>
 
 <details>
-  <summary>internet stuff (incomplete)</summary><br>
+  <summary>art i admire (incomplete)</summary><br>
   
 ![thing](https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg)
   ![thing2](https://ia800409.us.archive.org/12/items/TerryADavis_TempleOS_Archive/fan%20media/images/%22You%20know%20the%20secret%22%20Terry%20quote.jpeg)
