@@ -1,5 +1,5 @@
 <details>
-  <summary>info about me</summary>
+  <summary>general info (recommended)</summary>
 
  ``` diff
 @@ -0,0 +1,19 @@
@@ -34,7 +34,7 @@ Accept: application/json
 ```
 </details>
 <details>
-  <summary>toolbox</summary>
+  <summary>my toolbox</summary>
   <br>
   
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -106,7 +106,7 @@ Accept: application/json
 </details>
 
 <details>
-  <summary>internet</summary>
+  <summary>internet stuff (incomplete)</summary>
   
 ![thing](https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg)
   ![thing2](https://ia800409.us.archive.org/12/items/TerryADavis_TempleOS_Archive/fan%20media/images/%22You%20know%20the%20secret%22%20Terry%20quote.jpeg)
