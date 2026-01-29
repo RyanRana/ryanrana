@@ -1,3 +1,6 @@
+<details>
+  <summary>info about me</summary>
+
  ``` diff
 @@ -0,0 +1,19 @@
 $ pwd /Users/rr/Desktop
@@ -29,6 +32,7 @@ Accept: application/json
 }
 
 ```
+</details>
 <details>
   <summary>toolbox</summary>
   <br>
