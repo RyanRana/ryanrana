@@ -100,9 +100,11 @@ Accept: application/json
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 </details>
+
 <details>
-  <summary>calvin & hobbes</summary>
+  <summary>internet</summary>
   
 ![thing](https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg)
+  ![thing2](https://ia800409.us.archive.org/12/items/TerryADavis_TempleOS_Archive/fan%20media/images/%22You%20know%20the%20secret%22%20Terry%20quote.jpeg)
   
 </details>
