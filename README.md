@@ -8,11 +8,6 @@ $ npm run dev
 > server running on http://localhost:0067
 $ curl http://localhost:0067/ipom.json | jq
 ```
-``` http
-GET /ipom.json HTTP/1.1
-Host: localhost:0067
-Accept: application/json
-```
 ``` json
 {
   "name": "Ryan Rana",
