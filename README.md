@@ -101,7 +101,7 @@ $ curl http://localhost:0067/ipom.json | jq
 </details>
 
 <details>
-  <summary>stuff i saw on internet</summary>
+  <summary>other media</summary>
   <br>
 
   <img src="https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg" 
