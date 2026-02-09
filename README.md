@@ -1,5 +1,5 @@
 <details>
-  <summary>general info (recommended)</summary><br>
+  <summary> curl ipom.json </summary><br>
 
  ``` diff
 @@ -0,0 +1,19 @@
