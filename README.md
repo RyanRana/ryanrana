@@ -1,30 +1,11 @@
 <details>
-  <summary> json </summary><br>
+  <summary> about </summary><br>
 
  ``` diff
 @@ -0,0 +1,19 @@
-$ pwd /Users/rr/Desktop
-$ npm run dev
-> server running on http://localhost:0067
-$ curl http://localhost:0067/ipom.json | jq
-```
-``` json
-{
-  "name": "Ryan Rana",
-  "bio": "I love building & learning.",
-  "status": "swe @ centren health.",
-
-  "interests": ["agents", "vlms", "robotics", "systems"],
-
-  "links": {
-    "website": "https://ryanrana.com",
-    "email": "ryanran04@gmail.com",
-    "text": "908-873-4657",
-    "writing": "https://ryanranas.medium.com"
-  },
-
-  "notes": "reach out anywhere, always looking to sidequest."
-}
+i'm interested in solving problems with agents, VLMs, robots & scalable systems.
+as a swe, i prioritize technical depth and high agency for improvement.
+cs @ rutgers
 
 ```
 </details>
