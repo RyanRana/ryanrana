@@ -10,7 +10,7 @@ cs @ rutgers
 ```
 </details>
 <details>
-  <summary>my toolbox</summary>
+  <summary>tools</summary>
   <br>
   
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -82,7 +82,7 @@ cs @ rutgers
 </details>
 
 <details>
-  <summary>other media</summary>
+  <summary>other</summary>
   <br>
 
   <img src="https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg" 
