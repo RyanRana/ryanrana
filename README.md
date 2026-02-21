@@ -85,7 +85,7 @@ cs @ rutgers
   <summary>other</summary>
   <br>
 
-  <img src="https://ryanrana.github.io/c84cceb0e0680131732c005056a9545d%20(1).jpg" 
+  <img src="https://ryanrana.github.io/pics/c84cceb0e0680131732c005056a9545d%20(1).jpg" 
        style="width:90%; max-width:100%; height:auto; display:block; margin:0.8em auto;">
   <img src="https://ia800409.us.archive.org/12/items/TerryADavis_TempleOS_Archive/fan%20media/images/%22You%20know%20the%20secret%22%20Terry%20quote.jpeg" 
        style="width:90%; max-width:100%; height:auto; display:block; margin:0.8em auto;">
