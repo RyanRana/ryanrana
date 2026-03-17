@@ -4,8 +4,8 @@
  ``` diff
 @@ -0,0 +1,19 @@
 i pip installed pygame in 2020;
-now i'm interested in solving hard problems
-withmulti-modal reasoning, custom MCPs, robots
+now i'm interested in solving hard problems, 
+with multi-modal reasoning, custom MCPs, robots
 & scalable systems, no matter the product space.
 ```
 </details>
