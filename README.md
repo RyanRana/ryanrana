@@ -3,10 +3,7 @@
 
  ``` diff
 @@ -0,0 +1,19 @@
-i'm interested in solving problems with agents, VLMs, robots & scalable systems.
-as a swe, i prioritize technical depth and high agency for improvement.
-cs @ rutgers
-
+i pip installed pygame in 2020; now i'm interested in solving hard problems with multi-modal reasoning, custom MCPs, robots & scalable systems, no matter the product space.
 ```
 </details>
 <details>
