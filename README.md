@@ -10,6 +10,10 @@ with multi-modal reasoning, custom MCPs, robots
 ```
 </details>
 <details>
+  <summary> work </summary><br>
+https://www.ryanrana.com/ryan_rana.pdf
+</details>
+<details>
   <summary>tools</summary>
   <br>
   
